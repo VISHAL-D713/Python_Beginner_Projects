@@ -24,7 +24,8 @@ while True:
   else:
        print("Enter a valid number")
   
-print(f"The total cost is {total_cost}")      
+print(f"The total cost is {total_cost}") 
+print("Thanks for using thy system!!!!")     
 
         
 # print("WELCOME TO CLASSIC CAFE!!!!")
